@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_store">@drawble/ic_store</drawable>
+    <drawable name="ic_service">@drawble/ic_store</drawable>
+    <drawable name="ic_round_up">@drawble/ic_round_up</drawable>
+</resources>
